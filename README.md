@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](OYmXBQSBzg.gif)
+<img src='https://im2.ezgif.com/tmp/ezgif-2-d2325dfb2709.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 -------------- 
 

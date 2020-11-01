@@ -21,6 +21,7 @@
 		E0422FFC2543840700765B88 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0422FFB2543840700765B88 /* FeedViewController.swift */; };
 		E042300125438CBC00765B88 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E042300025438CBC00765B88 /* CameraViewController.swift */; };
 		E042301E2543986E00765B88 /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E042301D2543986D00765B88 /* PostCell.swift */; };
+		E042302D254E063A00765B88 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E042302C254E063800765B88 /* CommentCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -66,6 +67,7 @@
 		E0422FFB2543840700765B88 /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		E042300025438CBC00765B88 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		E042301D2543986D00765B88 /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		E042302C254E063800765B88 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		E355CFE8F461435BCC071C3E /* Pods_Parstagram.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Parstagram.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -155,6 +157,7 @@
 				E0422FFB2543840700765B88 /* FeedViewController.swift */,
 				E042300025438CBC00765B88 /* CameraViewController.swift */,
 				E042301D2543986D00765B88 /* PostCell.swift */,
+				E042302C254E063800765B88 /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -421,6 +424,7 @@
 				E0422FFC2543840700765B88 /* FeedViewController.swift in Sources */,
 				E0422FBA25437BB200765B88 /* SceneDelegate.swift in Sources */,
 				E042301E2543986E00765B88 /* PostCell.swift in Sources */,
+				E042302D254E063A00765B88 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
